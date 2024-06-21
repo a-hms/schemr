@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Fix Yolo 8.0.206 scale bug (#7821)
